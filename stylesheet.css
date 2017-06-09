@@ -8,3 +8,7 @@ h1, h3, form{
 	border: 2px dotted blue;
 }
 
+#Submit, #Clear{
+	align:center;
+}
+
