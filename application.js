@@ -19,5 +19,5 @@ $(document).ready(function(){
 	//create click event for clear button
 
 
-});
+)};
 
